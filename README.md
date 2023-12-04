@@ -1,2 +1,2 @@
-# infection
-A mini game in python that start with a dot and infect other dot in order to win the game.
+# Mini Games
+Me create mini games that I tried to understand.
